@@ -1,0 +1,5 @@
+[user]
+	name = Jason Perkey
+	email = jason.perkey@gmail.com
+[core]
+	editor = vim
